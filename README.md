@@ -1,14 +1,12 @@
-# textsimilarity [![Build Status](https://travis-ci.org/saromanov/textsimilarity.svg?branch=master)](https://travis-ci.org/saromanov/textsimilarity)
+# github-repo-start 
 
 ## Install
-``` npm install -g textsimilarity```
 ## Usage
 
 ```javascript
-var textsimilarity = require('textsimilarity');
-console.log(textsimilarity("It was a great", "It was a fun")); //0.75
+var ghr = require('github-repo-start')
+ghr('saromanov');
 ```
 
 ## LICENSE
 MIT
-# github-repo-start
